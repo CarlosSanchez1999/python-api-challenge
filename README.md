@@ -12,8 +12,8 @@ This project analyzes weather data for cities worldwide to identify ideal weathe
 
 ### Challenges Overcome:
 One major challenge was managing the lengthy data retrieval process in `WeatherPy`. To avoid re-running this time-consuming step, the project was split into two notebooks:
-- `WeatherPy`: Responsible for data retrieval.
-- `WeatherPy_Part_2`: Continues the analysis and visualization without requiring a re-run of the retrieval cells.
+- `WeatherPy`: Responsible for data retrieval and initial general graphs.
+- `WeatherPy_Part_2`: Continues the analysis of the lineal regression and visualization without requiring a re-run of the retrieval cells.
 
 ## Table of Contents
 - [Installation Instructions](#installation-instructions)
