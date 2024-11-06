@@ -28,11 +28,7 @@ One major challenge was managing the lengthy data retrieval process in `WeatherP
    cd your-repo-name
 2. **Install Required Packages**:
   pip install pandas hvplot requests
-3. **Set-Up API-Keys**:
-Obtain API keys for OpenWeatherMap and Geoapify.
-Create a config.py file in the project folder and store your keys as follows
-weather_api_key = "YOUR_OPENWEATHERMAP_API_KEY"
-geoapify_key = "YOUR_GEOAPIFY_API_KEY"
+3. **Set-Up API-Keys**
 
 ## Usage
 ### Step 1: Run `WeatherPy` Notebook
